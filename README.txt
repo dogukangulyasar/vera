@@ -1,3 +1,5 @@
+**This repository contains the updated links and it has no bug in getLine function.**
+
 Description
 -----------
 
@@ -28,4 +30,6 @@ Origins
 
 Vera++ was initially hosted at:
 http://www.inspirel.com/vera
+
+
 
